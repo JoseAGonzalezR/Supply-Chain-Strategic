@@ -35,18 +35,8 @@ This project focuses on the supply chain strategy for Corian product placement, 
 - **Current State:** Identified bottlenecks and inefficiencies  
 - **Future State:** Streamlined processes with optimized workflows  
 
-## Cost Savings Analysis
-- **CapEx Breakdown:**  
-  - Vertical Panel Saw Machine: $13,000  
-  - Speed Random Orbital Sanders (Qty 2): $200  
-  - Paint Booth Relocation: $8,000  
-  - Racks & Material Handling Equipment: $200  
-  - CNC Machine Servo Controller: $5,000  
-  - Equipment Installation: $2,000  
-  - Dust Collector: $12,000  
-  - Buffer: $5,000  
-  - Inspection Lights (Qty 4): $1,000  
-  - Contingency: $1,000  
+## Cost Savings
+#### ![Cost_Savings)](https://github.com/JoseAGonzalezR/Supply-Chain-Strategic/blob/main/Cost_Savings.png)
 
 ## Risk Assessment
 - **Initial Risks:** Supply chain disruptions, equipment relocation challenges, potential production delays  
