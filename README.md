@@ -32,8 +32,8 @@ This project focuses on the supply chain strategy for Corian product placement, 
 - **Rationale:** Address extended lead times, supplier unreliability, and cost inefficiencies  
 
 ## Value Stream Mapping
-### [Current State:]** Identified bottlenecks and inefficiencies  
-### [Future State:]** Streamlined processes with optimized workflows  
+### [Current State:](VSM_CS.PNG) Identified bottlenecks and inefficiencies  
+### [Future State:](VSM_FS.PNG) Streamlined processes with optimized workflows  
 
 ## Cost Savings
 #### ![Cost_Savings)](https://github.com/JoseAGonzalezR/Supply-Chain-Strategic/blob/main/Cost_Savings.png)
