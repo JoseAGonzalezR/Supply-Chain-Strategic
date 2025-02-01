@@ -1,4 +1,4 @@
-# Supply Chain Strategy for Corian Product Placement
+# [Supply Chain Strategy for Solid surface (Corian) Product Placement](Product Placement Corian.pptx)
 
 ## Project Overview
 This project focuses on the supply chain strategy for Solid surface (Corian) product placement, aiming to enhance operational efficiency, reduce costs, and improve product lead times. The strategy includes transitioning key product assemblies to the Tijuana Plant, optimizing processes, and achieving significant cost savings.
