@@ -7,7 +7,7 @@ This project focuses on the supply chain strategy for Corian product placement, 
 - **Product Lines:** ASPEKT Arm Caps, EMBOLD Arm Caps, LEELA Tables, TAVA Tables, and Benches  
 - **Launch Regions:** Americas  
 - **Customer Lead Time:** 5–8 weeks for finished products  
-- **Processes:** Polish, Sanding  
+- **Processes:** Assembly, Polish, Sanding  
 
 ## Financial Overview
 - **Capital Expenditure (CapEx):** $35,000  
@@ -25,8 +25,8 @@ This project focuses on the supply chain strategy for Corian product placement, 
 
 ## Supply Chain Strategy
 - **Transition to Tijuana Plant:**  
-  - **ASPEKT Arm Caps:** Processed and assembled  
-  - **EMBOLD Arm Caps:** Processed and assembled  
+  - **ASPEKT Arm Caps:** Processed and assembled Solid surface  
+  - **EMBOLD Arm Caps:** Processed and assembled Solid surface 
   - **LEELA Tables & Coffee Tables:** Solid surface with plywood processed and assembled  
   - **TAVA Tables & Benches:** Solid surface with plywood processed and assembled  
 - **Rationale:** Address extended lead times, supplier unreliability, and cost inefficiencies  
