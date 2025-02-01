@@ -37,6 +37,6 @@ This project focuses on the supply chain strategy for Solid surface (Corian) pro
 - **Health and Safety Considerations:** Ensuring a safe working environment during and after implementation  
 
 ## Conclusion
-The supply chain strategy for Corian product placement successfully addresses key operational challenges by leveraging the Tijuana Plant’s capabilities. The project is designed to achieve rapid payback, substantial cost savings, and improved supply chain reliability.
+The supply chain strategy for Solid surface (Corian) product placement successfully addresses key operational challenges by leveraging the Tijuana Plant’s capabilities. The project is designed to achieve rapid payback, substantial cost savings, and improved supply chain reliability.
 
 ## [Go back to my Webpage](https://JoseAGonzalezR.github.io/Jose_AGonzalez.github.io/)
