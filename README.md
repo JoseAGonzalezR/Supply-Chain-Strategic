@@ -4,7 +4,7 @@
 This project focuses on the supply chain strategy for Solid surface (Corian) product placement, aiming to enhance operational efficiency, reduce costs, and improve product lead times. The strategy includes transitioning key product assemblies to the Tijuana Plant, optimizing processes, and achieving significant cost savings.
 
 ## Project Scope
-- **Product Lines:** ASPEKT Arm Caps, EMBOLD Arm Caps, LEELA Tables, TAVA Tables, and Benches  
+- **Product Lines:** Arm Caps, Tables, and Benches  
 - **Launch Regions:** Americas  
 - **Customer Lead Time:** 5–8 weeks for finished products  
 - **Processes:** Solid surface (Corian) CNC Machining, Assembly, Polish, Sanding  
